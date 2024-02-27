@@ -66,6 +66,7 @@ print("RMSE = ",rmse)
 
 ## Output:
 ![image](https://github.com/Gokztechz/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/117667038/fd63cb7a-b8e8-4c37-bf27-5da229ec6b7f)
+
 ![image](https://github.com/Gokztechz/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/117667038/18864c61-43da-4005-ac70-7f5f1d4b0173)
 ![image](https://github.com/Gokztechz/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/117667038/9d79c9f3-5cae-4c6a-ba7b-9678a3d881a4)
 ![image](https://github.com/Gokztechz/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/117667038/c3024770-576a-45c0-9f47-42eab342dc01)
